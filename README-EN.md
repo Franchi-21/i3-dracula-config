@@ -21,7 +21,7 @@ exact_dot_config/
 
 1. Clone the repo:
    ```bash
-   git clone git@github.com:Franchi-21/i3-dracula-config.git
+   git clone https://github.com/Franchi-21/i3-dracula-config.git
    ```
 
 2. Copy whatever you want into `~/.config/`
