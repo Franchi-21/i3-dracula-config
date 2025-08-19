@@ -1,0 +1,18 @@
+# ================== VARIABLES GLOBALES ==================
+set $mod Mod4
+set $ctrl Ctrl
+set $alt Mod1
+set $esc Escape
+set $shift Shift
+set $refresh_i3status killall -SIGUSR1 i3status
+
+font pango:monospace 8
+
+# ================== INCLUDES ==================
+include ~/.config/i3/config.d/colors.conf
+include ~/.config/i3/config.d/workspaces.conf
+include ~/.config/i3/config.d/startup.conf
+include ~/.config/i3/config.d/keybindings_apps.conf
+include ~/.config/i3/config.d/keybindings_system.conf
+include ~/.config/i3/config.d/windows.conf
+include ~/.config/i3/config.d/movement.conf
