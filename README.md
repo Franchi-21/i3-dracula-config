@@ -37,6 +37,7 @@ exact_dot_config/
 - Polybar
 - Picom
 - Rofi
+- Maim, Satty --> Para sacar capturas y para visualizar imágenes
 - i3, i3-lock
 - nm-applet --> NetworkManager applet
 - feh

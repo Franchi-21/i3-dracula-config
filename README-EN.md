@@ -33,17 +33,18 @@ exact_dot_config/
 ---
 
 ## Required dependencies
-- Kitty  
-- Polybar  
-- Picom  
-- Rofi  
-- i3, i3-lock  
+- Kitty
+- Polybar
+- Picom
+- Rofi
+- Maim, Satty --> To take screenshots and visualize photos
+- i3, i3-lock
 - nm-applet → NetworkManager applet  
-- feh  
-- ttf-font-awesome  
-- ttf-jetbrains-mono-nerd  
-- curl, html → Tools to scrape data from Arch and Artix news pages  
-- gnome-polkit → For password prompts when something requires root  
+- feh
+- ttf-font-awesome
+- ttf-jetbrains-mono-nerd
+- curl, html → Tools to scrape data from Arch and Artix news pages
+- gnome-polkit → For password prompts when something requires root
 
 ---
 
