@@ -10,11 +10,14 @@ Hay algunas cosas que se podrian arreglar y agregar, como agregarle un sistema d
 
 ```
 exact_dot_config/
+├── exact_dunst
+├── exact_fastfetch
 ├── exact_i3        # Config de i3 WM
 ├── exact_kitty     # Config de Kitty
 ├── exact_picom     # Config de Picom
 ├── exact_polybar   # Config de Polybar
-└── exact_rofi      # Config de Rofi
+├── exact_rofi      # Config de Rofi
+└── gtk-3.0         # Configuracion para las ventanas (Asegurate de tener el tema de Dracula instalado, en mi caso uso el de xfce. Lo podés conseguir aca: [Dracula] (https://www.xfce-look.org/p/1687249/))
 ```
 
 ---
@@ -37,6 +40,9 @@ exact_dot_config/
 - Polybar
 - Picom
 - Rofi
+- xclip
+- xprop
+- Htop
 - Maim, Satty --> Para sacar capturas y para visualizar imágenes
 - i3, i3-lock
 - nm-applet --> NetworkManager applet
