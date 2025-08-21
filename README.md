@@ -17,7 +17,7 @@ exact_dot_config/
 ├── exact_picom     # Config de Picom
 ├── exact_polybar   # Config de Polybar
 ├── exact_rofi      # Config de Rofi
-└── gtk-3.0         # Configuracion para las ventanas (Asegurate de tener el tema de Dracula instalado, en mi caso uso el de xfce. Lo podés conseguir aca: [Dracula] (https://www.xfce-look.org/p/1687249/))
+└── gtk-3.0         # Configuracion para las ventanas (Asegurate de tener el tema de Dracula instalado, en mi caso uso el de xfce. Lo podés conseguir aca: https://www.xfce-look.org/p/1687249/
 ```
 
 ---
