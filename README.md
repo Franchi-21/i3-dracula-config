@@ -42,7 +42,7 @@ exact_dot_config/
 - Rofi
 - xclip
 - xprop
-- Htop
+- Btop
 - Maim, Satty --> Para sacar capturas y para visualizar imágenes
 - i3, i3-lock
 - nm-applet --> NetworkManager applet

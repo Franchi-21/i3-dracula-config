@@ -43,7 +43,7 @@ exact_dot_config/
 - Maim, Satty --> To take screenshots and visualize photos
 - xclip
 - xprop
-- Htop
+- Btop
 - i3, i3-lock
 - nm-applet → NetworkManager applet  
 - feh
