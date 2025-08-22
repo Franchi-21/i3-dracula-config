@@ -9,14 +9,14 @@ There are some things that could be improved or added, like setting up a lock sy
 ## 📂 Structure
 
 ```
-exact_dot_config/
-├── exact_dunst
-├── exact_fastfetch
-├── exact_i3        # i3 config
-├── exact_kitty     # Kitty config
-├── exact_picom     # Picom config
-├── exact_polybar   # Polybar config
-├── exact_rofi      # Rofi config
+dotfiles/
+├── dunst
+├── fastfetch
+├── i3        # i3 config
+├── kitty     # Kitty config
+├── picom     # Picom config
+├── polybar   # Polybar config
+├── rofi      # Rofi config
 └── gtk-3.0         # This is the configuration for all the windows (Make sure you have Dracula theme installed! Personally I use the one that's from xfce, which you can find here: https://www.xfce-look.org/p/1687249/
 ```
 
@@ -42,7 +42,7 @@ exact_dot_config/
 - Rofi
 - Maim, Satty --> To take screenshots and visualize photos
 - xclip
-- xprop
+- xset
 - Btop
 - i3, i3-lock
 - nm-applet → NetworkManager applet  
