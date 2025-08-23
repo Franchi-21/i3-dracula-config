@@ -1,4 +1,4 @@
-# ================== VARIABLES GLOBALES ==================
+# ================== GLOBAL VARIABLES ==================
 set $mod Mod4
 set $ctrl Ctrl
 set $alt Mod1

@@ -1,14 +1,9 @@
-# =========================
-# Dunst - Dracula friendly
-# Tamaño aprox. XFCE default
-# =========================
-
 [global]
-    ### Posición / tamaño
+    ### Position/size
     origin = top-right
-    offset = 20x40               # margen desde el borde
-    width = 320                  # ~ancho típico de XFCE
-    padding = 12                 # padding interno
+    offset = 20x40
+    width = 320
+    padding = 12
     horizontal_padding = 12
     text_icon_padding = 8
     separator_height = 1
@@ -17,42 +12,41 @@
     frame_width = 2
     corner_radius = 10
 
-    ### Tipografía
-    font = Roboto 10             # legible; podés subir a 11 si usás HiDPI
-    markup = full                # permitir <b>, <i>, etc. en notificaciones
+    ### Typography
+    font = Roboto 10
+    markup = full
 
-    ### Apariencia (Dracula)
-    # Paleta: bg #282a36 | fg #f8f8f2 | purple #bd93f9 | cyan #8be9fd | green #50fa7b | red #ff5555 | yellow #f1fa8c
-    separator_color = frame      # usa color del marco para la línea
+    ### Appearance
+    # Palette: bg #282a36 | fg #f8f8f2 | purple #bd93f9 | cyan #8be9fd | green #50fa7b | red #ff5555 | yellow #f1fa8c
+    separator_color = frame
     enable_recursive_icon_lookup = true
 
-    ### Comportamiento
-    follow = mouse               # la noti aparece en el monitor del cursor
+    ### Behavior
+    follow = mouse
     indicate_hidden = true
     stack_duplicates = true
     show_indicators = true
     sticky_history = false
     history_length = 20
 
-    ### Varios
     mouse_left_click = close_current
     mouse_middle_click = do_action
     mouse_right_click = close_all
 
 [urgency_low]
     background = "#282a36"
-    foreground = "#cfcfe5"       # un pelín más gris para menos brillo
-    frame_color = "#6272a4"      # azul apagado
+    foreground = "#cfcfe5"
+    frame_color = "#6272a4"
     timeout = 4
 
 [urgency_normal]
     background = "#282a36"
-    foreground = "#f8f8f2"       # texto principal bien contraste
-    frame_color = "#bd93f9"      # violeta draculoso
+    foreground = "#f8f8f2"
+    frame_color = "#bd93f9"
     timeout = 6
 
 [urgency_critical]
     background = "#282a36"
     foreground = "#f8f8f2"
-    frame_color = "#ff5555"      # rojo para crítico
-    timeout = 0                  # no se cierra solo
+    frame_color = "#ff5555"
+    timeout = 0
