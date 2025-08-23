@@ -39,7 +39,7 @@
       "format": "{version} — {vendor} ({date})" },
 
     { "type": "packages", "key": "│ ├ PACKAGES", "keyColor": "yellow",
-      "format": "Total {all} • pacman {pacman}" },
+      "format": "Total {all} • pacman {pacman} • flatpak {flatpak-all}" },
 
     { "type": "shell", "key": "└ └ SHELL", "keyColor": "yellow" },
 
