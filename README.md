@@ -42,6 +42,7 @@ dotfiles/
 - Rofi
 - xclip
 - xset
+- pasystray
 - Btop
 - Maim, Satty --> Para sacar capturas y para visualizar imágenes
 - i3, i3-lock

@@ -43,6 +43,7 @@ dotfiles/
 - Maim, Satty --> To take screenshots and visualize photos
 - xclip
 - xset
+- pasystray
 - Btop
 - i3, i3-lock
 - nm-applet → NetworkManager applet  
